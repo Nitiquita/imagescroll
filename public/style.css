@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+div img {
+    display: inline;
+    height: 300px;
+    
+}
+
+ #headline {
+     padding-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+#image-container {
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
